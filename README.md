@@ -27,3 +27,4 @@ Nếu trạng thái màu xanh: phân vùng staging area
   git checkout <Tên nhánh>
 .Câu lệnh kéo code mới về 
   git pull
+.File gitignore: file nào được gọi tên trong file này sẽ không được push lên server
