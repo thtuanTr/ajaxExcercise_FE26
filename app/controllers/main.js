@@ -16,6 +16,7 @@ $(document).ready(function () {
             console.log(err);
         })
 
+    
     function themNguoiDung (){
         console.log("themNguoiDung");
     }
