@@ -25,3 +25,5 @@ Nếu trạng thái màu xanh: phân vùng staging area
   git branch
 .Câu lệnh chuyển nhánh
   git checkout <Tên nhánh>
+.Câu lệnh kéo code mới về 
+  git pull
