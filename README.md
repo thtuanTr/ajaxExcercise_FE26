@@ -19,7 +19,7 @@ Nếu trạng thái màu xanh: phân vùng staging area
   git commit -m "comment"
 .Câu lệnh di chuyển từ Local Repository -> Server
   git push origin <Tên nhánh>
-.Câu lệnh tạo nhánh (đang đứng ở branch tạo nhánh )
+.Câu lệnh tạo nhánh (Câu lệnh tạo nhánh: đang đứng ở branch nào tạo nhánh, thì tự động copy source từ nhánh đang đứng qua nhánh mới tạo)
   git branch <Tên nhánh>
 .Câu lệnh kiểm tra nhánh
   git branch
