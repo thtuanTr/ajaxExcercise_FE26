@@ -16,7 +16,10 @@ $(document).ready(function () {
         .fail(function (err) {
             console.log(err);
         })
-
+    
+    function themNguoiDung (){
+        console.log("themNguoiDung");
+    }
 
     function LuuDuLieu() {
         // Chuyển kiểu dữ liệu về chuỗi JSON
