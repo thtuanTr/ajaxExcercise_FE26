@@ -2,7 +2,6 @@
     Lấy danh sách nguòi dùng từ backend về 
 
 */    
-
 $(document).ready(function () {
     var userArray = [];
     var userService = new NguoiDungService();
@@ -17,6 +16,9 @@ $(document).ready(function () {
             console.log(err);
         })
 
+    function themNguoiDung (){
+        console.log("themNguoiDung");
+    }
 
     function LuuDuLieu() {
         // Chuyển kiểu dữ liệu về chuỗi JSON
